@@ -7,6 +7,13 @@
   <title>Home</title>
 </head>
 <body>
+<nav>
+<ul>
+<ls>Home</ls>
+<ls>About Us</ls>
+<ls>Contact</ls>
+</ul>
+</nav>
   <h1>Hello World</h1>
 </body>
 </html>
