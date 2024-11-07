@@ -6,3 +6,4 @@
 4. Enter username, key and target endpoint in `.env`
    der ja
    run secret 3rd time
+   dcsmlsc
